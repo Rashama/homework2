@@ -22,7 +22,7 @@ p {
 
 img {  
     display: block;
-   /* margin: 0 auto;  OR  margin-left: auto; margin-right: auto;*/
+   /* OR  margin-left: auto; margin-right: auto;*/
     margin: auto; 
     width: 525px;
     height: auto;
@@ -34,24 +34,21 @@ div {
 }
 
 #red {
-    background-color:#cd0a0a ;
+    background-color:#FF0000 ;
     text-align: right;
 }
 
 #blue {
-    background-color:  #1d1bbb;
+    background-color:  #0000FF;
     text-align: left;
 }
 
 #yellow {
-    background-color:  #f8eb35;
+    background-color:  #FFFF00;
     text-align: right;
     color: #000000;
 }
 
-#yellow p {
-    color: #000000;
-}
 
 #yellow h2 {
     color: #000000;
@@ -59,7 +56,7 @@ div {
 }
 
 #green {
-    background-color: #154c16;
+    background-color: #008000;
     text-align: left;
 }
 
